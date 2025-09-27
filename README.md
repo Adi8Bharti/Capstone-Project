@@ -2,7 +2,9 @@
 
 This project is an end-to-end cricket data analysis pipeline designed to uncover powerful insights about players and teams using real match data. From data collection ➝ cleaning ➝ exploratory analysis ➝ visualization, the project demonstrates skills in Python, SQL, and sports analytics.
 
+
 🎯 Goal: Showcase how data wrangling and analytics can reveal trends like top-performing batsmen, winning patterns, and match strategies.
+
 
 
 ✨ Features-
@@ -18,6 +20,7 @@ This project is an end-to-end cricket data analysis pipeline designed to uncover
 📑 Reporting: A clear summary of insights like top performers, seasonal trends, and toss vs match outcomes.
 
 
+
 🛠️ Technologies Used-
 
 🐍 Python: Pandas, NumPy, Matplotlib, Seaborn
@@ -27,10 +30,4 @@ This project is an end-to-end cricket data analysis pipeline designed to uncover
 📓 Jupyter Notebook: Interactive workflow
 
 🌱 Git: Version control & collaboration
-🐍 Python: Pandas, NumPy, Matplotlib, Seaborn
 
-🗃️ SQL: Data querying & aggregation
-
-📓 Jupyter Notebook: Interactive workflow
-
-🌱 Git: Version control & collaboration
